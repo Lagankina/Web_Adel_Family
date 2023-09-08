@@ -2,7 +2,46 @@
     font-family : "DynaPuff";
     font-weight: 400;
     src : url(fonts/DynaPuffCondensed/DynaPuff_Condensed-Regular.ttf);
+
 } 
+@font-face {
+    font-family : "Dance";
+    font-weight: 400;
+    src : url(fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf);
+}
 .DynaPuff {
     font-family : 'DynaPuff', 'Comic Sans MS', cursive;
 }
+.Dance{
+    font-family : 'Dance', 'Comic Sans MS', cursive;
+    font-size: 1,5rem;
+}
+body{
+    background-color: rgb(140, 216, 216);
+    width: 1800px;
+    text-align: center;
+
+   
+}
+h1{
+    color: rgb(53, 180, 192);
+}
+h2{
+    color: rgb(129, 158, 2);
+}
+a{
+    color: rgba(92, 57, 94, 0.986);
+    
+}
+img{
+    width: 300px;
+    border: 5px solid rgb(243, 236, 235);
+}
+.DynaPuff{
+    font-size: 2rem;
+}
+li{
+    color: rgba(92, 57, 94, 0.986);
+}
+.
+
