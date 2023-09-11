@@ -1,6 +1,6 @@
 @font-face {
     font-family : "DynaPuff";
-    font-weight: 400;
+    font-weight: 200;
     src : url(fonts/DynaPuffCondensed/DynaPuff_Condensed-Regular.ttf);
 
 } 
@@ -9,39 +9,64 @@
     font-weight: 400;
     src : url(fonts/Dancing_Script/DancingScript-VariableFont_wght.ttf);
 }
+
 .DynaPuff {
     font-family : 'DynaPuff', 'Comic Sans MS', cursive;
+    font-size: 1,5rem;
 }
-.Dance{
+
+.Dance {
     font-family : 'Dance', 'Comic Sans MS', cursive;
     font-size: 1,5rem;
 }
-body{
-    background-color: rgb(140, 216, 216);
+
+body {
+    background-color: rgb(45, 107, 107);
     width: 1800px;
     text-align: center;
-
+    
    
 }
-h1{
+
+h1 {
     color: rgb(53, 180, 192);
 }
-h2{
-    color: rgb(129, 158, 2);
+
+h2 {
+    color: rgb(142, 170, 15);
 }
-a{
-    color: rgba(92, 57, 94, 0.986);
+
+a {
+    color: rgba(73, 114, 167, 0.986);
     
 }
-img{
-    width: 300px;
-    border: 5px solid rgb(243, 236, 235);
-}
-.DynaPuff{
-    font-size: 2rem;
-}
-li{
-    color: rgba(92, 57, 94, 0.986);
-}
-.
 
+img {
+    width: 190px;
+    border: 5px solid rgb(66, 13, 46);
+}
+
+/* .DynaPuff {
+    font-size: 2rem;
+} */
+
+li {
+    color: rgba(248, 193, 219, 0.986);
+}
+
+.test {
+    width: 100%;
+    text-align:  center;
+}
+
+.center {
+    display: inline-block
+}
+    
+li {
+    text-align: left;
+}
+
+p {
+    color: rgba(6, 199, 199, 0.986);    
+}
